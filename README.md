@@ -22,3 +22,9 @@ pip install opencv-python
 ```
 
 After successful installation run the file **main.py** and Voila!!! you will seee the patterns of your hand.
+
+> This project was my first Submission at MLH Hackathon and won 3rd overall prize winner.
+
+![Screenshot from 2022-08-04 18-40-28](https://user-images.githubusercontent.com/76171953/182855091-f7bc5e26-14cf-4a0d-a436-208f47e7558a.png)
+
+
